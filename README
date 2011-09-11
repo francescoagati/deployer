@@ -1,0 +1,2 @@
+bundle install gemmelocali
+bundle exec rspec  spec/deployer_spec.rb
